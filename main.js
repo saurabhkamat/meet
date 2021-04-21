@@ -45,7 +45,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const routes = [
     {
-        path: '',
+        path: 'meet',
         component: _jitsi_jitsi_component__WEBPACK_IMPORTED_MODULE_2__["JitsiComponent"]
     },
     {
